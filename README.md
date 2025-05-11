@@ -1,16 +1,21 @@
 <h1 align="center">Welcome to My GitHub Profile</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdulrhman+Saad+Aljradi;Software+Engineer+%7C+Full-Stack+Developer;AI+%7C+Automation+%7C+Cloud+Computing;Welcome+to+my+profile!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdulrhman+Saad+Aljradi;Software+Engineer+%7C+Full-Stack+Developer;AI+%7C+Automation+%7C+Cloud+Computing;Welcome+to+my+profile!" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- **Name:** Abdulrhman Saad Aljradi
-- **Role:** Software Engineer | AI & Automation Enthusiast
-- **Focus:** Building intelligent systems, scalable web applications, and process automation.
-- **Goal:** To build secure, scalable, and innovative solutions that create impact.
+- **Name:** Abdulrhman Saad Aljradi  
+- **From:** Yemen  
+- **Role:** Software Engineer | AI & Automation Enthusiast  
+- **Focus:** Scalable Web Apps, AI Tools, Process Automation  
+- **Phone:** +967776227313  
+- **Email:** aljrady591@gmail.com  
+- **Goal:** To build secure, intelligent, and innovative systems.  
+- **Languages:** Arabic (Native), English (Professional)
 
 ---
 
@@ -21,7 +26,7 @@ Languages:   Python, JavaScript, PHP, SQL
 Frontend:    HTML5, CSS3, React, Tailwind CSS
 Backend:     Node.js, Django, Flask, Laravel
 Databases:   MySQL, MongoDB, PostgreSQL
-Dev Tools:   Git, GitHub, Docker, VS Code, Linux, REST APIs
+Dev Tools:   Git, GitHub, Docker, Linux, VS Code, REST APIs
 
 
 ---
@@ -34,10 +39,10 @@ Dev Tools:   Git, GitHub, Docker, VS Code, Linux, REST APIs
 📈 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aljradi646&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aljradi646&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aljrady646&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aljrady646&theme=radical" height="180" />
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aljradi646&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aljrady646&theme=tokyonight" />
 </p>
 ---
 
@@ -64,8 +69,9 @@ Dev Tools:   Git, GitHub, Docker, VS Code, Linux, REST APIs
 
 📫 Contact Me
 
-Email: [aljrady591@gmail.com]
-Website: [قريبًا – engaljradi.net]
+Email: aljrady591@gmail.com
+Phone: +967 776 227 313
+Website: engaljradi.net (Coming Soon)
 Available For: Freelance | Collaborations | AI Projects
 
 
@@ -73,5 +79,5 @@ Available For: Freelance | Collaborations | AI Projects
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027&height=120&section=footer" />
-</p>
+</p><p align="center"><b>© 2025 Abdulrhman Saad Aljradi — All Rights Reserved</b></p>
 ```
