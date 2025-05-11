@@ -74,3 +74,4 @@ Available For: Freelance | Collaborations | AI Projects
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027&height=120&section=footer" />
 </p>
+```
