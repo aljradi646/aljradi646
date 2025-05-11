@@ -75,7 +75,7 @@ Dev Tools:   Git, GitHub, Docker, Linux, VS Code, REST APIs
 📫 Contact Me
 
 Email: aljrady591@gmail.com
-Phone: +967 776 227 313
+Phone: +967 776 227 313    
 Website: engaljradi.net (Coming Soon)
 Available For: Freelance | Collaborations | AI Projects
 
