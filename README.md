@@ -30,22 +30,28 @@ Dev Tools:   Git, GitHub, Docker, Linux, VS Code, REST APIs
 
 ---
 
-⚡ Featured Projects
+### ⚡ Featured Projects
 
+| Project                | Description                                           | Tech Stack                        |
+|------------------------|-------------------------------------------------------|-----------------------------------|
+| **Login System**       | Secure user authentication system                    | Python, SQLite, Flask             |
+| **Smart Organizer**    | Telegram & WhatsApp AI-based media sorter            | Python, NLP, AI, FastAPI          |
+| **Portfolio Website**  | Binance-like engineer portfolio site                 | HTML, CSS, JavaScript, PHP        |
 
 ---
 
-📈 GitHub Activity & Stats
+### 📈 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aljrady646&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aljrady646&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aljradi646&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aljradi646&theme=radical" height="180" />
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aljrady646&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aljradi646&theme=tokyonight" />
 </p>
+
 ---
 
-🌐 Connect With Me
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.facebook.com/abdulrhman.al.jradi?mibextid=ZbWKwL" target="_blank">
@@ -55,8 +61,8 @@ Dev Tools:   Git, GitHub, Docker, Linux, VS Code, REST APIs
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
----
 
+---
 ✨ Quote
 
 > "Programming is not just a skill — it's a superpower to build the future."
