@@ -21,7 +21,6 @@
 
 ### 🧠 Skills & Tech Stack
 
-```yaml
 Languages:   Python, JavaScript, PHP, SQL
 Frontend:    HTML5, CSS3, React, Tailwind CSS
 Backend:     Node.js, Django, Flask, Laravel
@@ -80,4 +79,3 @@ Available For: Freelance | Collaborations | AI Projects
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027&height=120&section=footer" />
 </p><p align="center"><b>© 2025 Abdulrhman Saad Aljradi — All Rights Reserved</b></p>
-```
