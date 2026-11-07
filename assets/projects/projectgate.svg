@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="projectgate-title projectgate-desc">
+  <title id="projectgate-title">ProjectGate</title>
+  <desc id="projectgate-desc">Academic project workflow management. Concept illustration, not a product screenshot.</desc>
+  <defs>
+    <linearGradient id="projectgate-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1424"/>
+      <stop offset="1" stop-color="#101F33"/>
+    </linearGradient>
+    <linearGradient id="projectgate-accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#568AC6"/>
+      <stop offset="1" stop-color="#79D9D0"/>
+    </linearGradient>
+    <radialGradient id="projectgate-halo">
+      <stop offset="0" stop-color="#568AC6" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#568AC6" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="projectgate-shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+    <pattern id="projectgate-grid" width="38" height="38" patternUnits="userSpaceOnUse">
+      <path d="M38 0H0V38" fill="none" stroke="#DCE8F5" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" rx="30" fill="url(#projectgate-bg)"/>
+  <rect width="1200" height="630" rx="30" fill="url(#projectgate-grid)"/>
+  <circle cx="900" cy="310" r="340" fill="url(#projectgate-halo)"/>
+  <path d="M0 510C180 470 310 560 500 510S830 465 1200 530V630H0Z" fill="#07101C" opacity=".62"/>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <rect x="72" y="76" width="9" height="58" rx="4.5" fill="url(#projectgate-accent)"/>
+    <text x="108" y="103" fill="#A8BDD3" font-size="18" font-weight="650" letter-spacing="4">PROJECT PORTFOLIO</text>
+    <text x="72" y="214" fill="#F4F7FB" font-size="62" font-weight="720" letter-spacing="-2">ProjectGate</text>
+    <text x="76" y="264" fill="#B4C5D8" font-size="25" font-weight="400">Academic project workflow management</text>
+    <rect x="76" y="322" width="365" height="2" rx="1" fill="#DCE8F5" opacity=".15"/>
+    <rect x="76" y="322" width="84" height="2" rx="1" fill="url(#projectgate-accent)"/>
+    <rect x="76" y="357" width="auto" height="42" rx="21" fill="#FFFFFF" fill-opacity=".07" stroke="#FFFFFF" stroke-opacity=".13"/>
+    <circle cx="98" cy="378" r="5" fill="url(#projectgate-accent)"/>
+    <text x="116" y="385" fill="#D8E4F0" font-size="16" font-weight="600" letter-spacing="1">PRIVATE · ACTIVE DEVELOPMENT</text>
+    <text x="76" y="548" fill="#748BA4" font-size="15" letter-spacing="2">ABSTRACT CONCEPT ART · NOT A PRODUCT SCREENSHOT</text>
+  </g>
+  <g>
+    <g transform="translate(570 86)">
+      <ellipse cx="275" cy="440" rx="250" ry="38" fill="#000814" opacity=".48" filter="url(#projectgate-shadow)"/>
+      <path d="M85 330C85 250 160 250 194 250H310C370 250 380 185 440 185" fill="none" stroke="#7EB8D1" stroke-opacity=".65" stroke-width="5" stroke-linecap="round"/>
+      <path d="M85 330C85 410 170 410 222 410H330C390 410 395 345 465 345" fill="none" stroke="#7EB8D1" stroke-opacity=".42" stroke-width="5" stroke-linecap="round"/>
+      <g transform="translate(36 100) rotate(-8 130 150)">
+        <rect x="0" y="0" width="245" height="310" rx="18" fill="#13263B" stroke="#64849F" stroke-width="3"/>
+        <rect x="28" y="32" width="64" height="8" rx="4" fill="#6AB9CA"/>
+        <rect x="28" y="70" width="180" height="12" rx="6" fill="#9FB5C8" opacity=".6"/>
+        <rect x="28" y="100" width="146" height="12" rx="6" fill="#9FB5C8" opacity=".35"/>
+        <rect x="28" y="148" width="185" height="84" rx="12" fill="#1D3C54" stroke="#547D98"/>
+        <path d="M48 204L82 176L111 190L145 163L190 184" fill="none" stroke="#6EC9C7" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+        <rect x="28" y="258" width="78" height="10" rx="5" fill="#8AA6BB" opacity=".6"/>
+        <rect x="122" y="258" width="90" height="10" rx="5" fill="#8AA6BB" opacity=".28"/>
+      </g>
+      <g transform="translate(290 44)">
+        <rect x="0" y="0" width="255" height="340" rx="20" fill="#1B344C" stroke="#7EA5BE" stroke-width="3"/>
+        <rect x="26" y="26" width="203" height="54" rx="12" fill="#264A65"/>
+        <circle cx="54" cy="53" r="9" fill="#78D3CF"/>
+        <rect x="76" y="47" width="120" height="10" rx="5" fill="#D9E7F2" opacity=".72"/>
+        <rect x="26" y="110" width="203" height="62" rx="12" fill="#10263B" stroke="#466D89"/>
+        <rect x="44" y="129" width="94" height="9" rx="4.5" fill="#A8BED0" opacity=".65"/>
+        <rect x="44" y="147" width="145" height="7" rx="3.5" fill="#A8BED0" opacity=".3"/>
+        <rect x="26" y="194" width="94" height="112" rx="12" fill="#193D54"/>
+        <rect x="135" y="194" width="94" height="112" rx="12" fill="#193D54"/>
+        <circle cx="73" cy="232" r="18" fill="none" stroke="#75D0CA" stroke-width="6"/>
+        <path d="M157 252L174 232L193 245" fill="none" stroke="#9BC5DB" stroke-width="5" stroke-linecap="round"/>
+      </g>
+      <g transform="translate(590 210)">
+        <circle cx="54" cy="54" r="53" fill="#173B4C" stroke="#80D8D0" stroke-width="3"/>
+        <path d="M34 31H74V64H34Z" fill="none" stroke="#BDE6E3" stroke-width="4" stroke-linejoin="round"/>
+        <path d="M44 44H64M44 54H64" stroke="#BDE6E3" stroke-width="3" stroke-linecap="round"/>
+        <path d="M54 64V80M44 74L54 84L64 74" fill="none" stroke="#BDE6E3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+      </g>
+      <g fill="#8ED7D1" stroke="#0D2235" stroke-width="5"><circle cx="85" cy="330" r="13"/><circle cx="440" cy="185" r="13"/><circle cx="465" cy="345" r="13"/></g>
+    </g></g>
+  <rect x="1.5" y="1.5" width="1197" height="627" rx="29" fill="none" stroke="#D8E6F5" stroke-opacity=".14" stroke-width="3"/>
+</svg>
