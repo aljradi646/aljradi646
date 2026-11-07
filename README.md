@@ -8,7 +8,7 @@ I design and build practical software products, with a focus on mobile applicati
 
 صانع برمجيات أركز على تطوير تطبيقات الجوال والويب والأنظمة الخلفية، مع الاهتمام بجودة التنفيذ والأمان وقابلية الصيانة.
 
-**Yemen** · **B.Sc. Computer Information Systems — in progress**
+**Yemen** · **B.Sc. Computer Information Systems, Queen Arwa University — in progress**
 
 [Email](mailto:aljrady591@gmail.com) · [GitHub](https://github.com/aljradi646)
 
@@ -39,7 +39,7 @@ I value working software, explicit technical trade-offs, and verifiable engineer
 | Web | React, TypeScript, JavaScript, HTML, CSS |
 | Backend | PHP, Laravel, Node.js, Python |
 | APIs & real-time | REST APIs, WebSockets, Socket.IO, WebRTC |
-| Data | MySQL, SQLite, PostgreSQL |
+| Data | MySQL, SQLite |
 | Engineering tools | Git, GitHub Actions, Docker |
 
 I use technologies according to project requirements rather than forcing one stack onto every product.
