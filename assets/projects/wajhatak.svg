@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="wajhatak-title wajhatak-desc">
+  <title id="wajhatak-title">Wajhatak</title>
+  <desc id="wajhatak-desc">Arabic-first real estate platform. Concept illustration, not a product screenshot.</desc>
+  <defs>
+    <linearGradient id="wajhatak-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1424"/>
+      <stop offset="1" stop-color="#101F33"/>
+    </linearGradient>
+    <linearGradient id="wajhatak-accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3D9BB1"/>
+      <stop offset="1" stop-color="#79D9D0"/>
+    </linearGradient>
+    <radialGradient id="wajhatak-halo">
+      <stop offset="0" stop-color="#3D9BB1" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#3D9BB1" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="wajhatak-shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+    <pattern id="wajhatak-grid" width="38" height="38" patternUnits="userSpaceOnUse">
+      <path d="M38 0H0V38" fill="none" stroke="#DCE8F5" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" rx="30" fill="url(#wajhatak-bg)"/>
+  <rect width="1200" height="630" rx="30" fill="url(#wajhatak-grid)"/>
+  <circle cx="900" cy="310" r="340" fill="url(#wajhatak-halo)"/>
+  <path d="M0 510C180 470 310 560 500 510S830 465 1200 530V630H0Z" fill="#07101C" opacity=".62"/>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <rect x="72" y="76" width="9" height="58" rx="4.5" fill="url(#wajhatak-accent)"/>
+    <text x="108" y="103" fill="#A8BDD3" font-size="18" font-weight="650" letter-spacing="4">PROJECT PORTFOLIO</text>
+    <text x="72" y="214" fill="#F4F7FB" font-size="62" font-weight="720" letter-spacing="-2">Wajhatak</text>
+    <text x="76" y="264" fill="#B4C5D8" font-size="25" font-weight="400">Arabic-first real estate platform</text>
+    <rect x="76" y="322" width="365" height="2" rx="1" fill="#DCE8F5" opacity=".15"/>
+    <rect x="76" y="322" width="84" height="2" rx="1" fill="url(#wajhatak-accent)"/>
+    <rect x="76" y="357" width="auto" height="42" rx="21" fill="#FFFFFF" fill-opacity=".07" stroke="#FFFFFF" stroke-opacity=".13"/>
+    <circle cx="98" cy="378" r="5" fill="url(#wajhatak-accent)"/>
+    <text x="116" y="385" fill="#D8E4F0" font-size="16" font-weight="600" letter-spacing="1">PUBLIC REPOSITORY</text>
+    <text x="76" y="548" fill="#748BA4" font-size="15" letter-spacing="2">ABSTRACT CONCEPT ART · NOT A PRODUCT SCREENSHOT</text>
+  </g>
+  <g>
+    <g transform="translate(520 88)">
+      <ellipse cx="330" cy="420" rx="275" ry="44" fill="#000814" opacity=".45" filter="url(#wajhatak-shadow)"/>
+      <path d="M20 365C92 311 148 304 214 326S340 365 419 317 540 284 620 310" fill="none" stroke="#8EC9D7" stroke-opacity=".35" stroke-width="4" stroke-dasharray="8 14"/>
+      <path d="M52 414L52 216L166 156L280 216V414Z" fill="#19334A" stroke="#4C728D" stroke-width="2"/>
+      <path d="M52 216L166 156L280 216" fill="none" stroke="#A5C8D6" stroke-opacity=".6" stroke-width="3"/>
+      <path d="M83 238H119V277H83ZM144 238H180V277H144ZM205 238H241V277H205ZM83 300H119V339H83ZM144 300H180V339H144ZM205 300H241V339H205Z" fill="#76B7C9" opacity=".72"/>
+      <path d="M302 414V170L418 105L535 170V414Z" fill="#213F56" stroke="#6D92A9" stroke-width="2"/>
+      <path d="M302 170L418 105L535 170" fill="none" stroke="#BED9E5" stroke-opacity=".7" stroke-width="3"/>
+      <path d="M334 194H372V240H334ZM391 194H429V240H391ZM448 194H486V240H448ZM334 264H372V310H334ZM391 264H429V310H391ZM448 264H486V310H448Z" fill="#A1D3DF" opacity=".74"/>
+      <path d="M560 414V244L640 199L720 244V414Z" fill="#152D44" stroke="#577D95" stroke-width="2"/>
+      <path d="M581 262H609V296H581ZM624 262H652V296H624ZM581 318H609V352H581ZM624 318H652V352H624Z" fill="#8EC4D4" opacity=".65"/>
+      <path d="M0 414H760" stroke="#8BA6BD" stroke-opacity=".5" stroke-width="3"/>
+      <path d="M335 414C290 467 268 511 239 550M490 414C537 465 557 514 580 550" stroke="#7892A9" stroke-opacity=".25" stroke-width="14" fill="none"/>
+      <g transform="translate(552 40)">
+        <path d="M62 0C27 0 0 28 0 62c0 48 62 115 62 115s62-67 62-115C124 28 97 0 62 0Z" fill="url(#wajhatak-accent)" stroke="#E7FAFA" stroke-width="3"/>
+        <circle cx="62" cy="62" r="20" fill="#0B1C2C" stroke="#E7FAFA" stroke-width="5"/>
+      </g>
+      <path d="M80 492C143 463 194 466 248 492" stroke="#61C9CA" stroke-width="5" stroke-linecap="round" fill="none" opacity=".7"/>
+    </g></g>
+  <rect x="1.5" y="1.5" width="1197" height="627" rx="29" fill="none" stroke="#D8E6F5" stroke-opacity=".14" stroke-width="3"/>
+</svg>
