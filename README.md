@@ -1,87 +1,128 @@
-<h1 align="center">Welcome to My GitHub Profile</h1>
+# Abdulrhman Saad Aljradi
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdulrhman+Saad+Aljradi;Software+Engineer+%7C+Full-Stack+Developer;AI+%7C+Automation+%7C+Cloud+Computing;Welcome+to+my+profile!" />
-</p>
+<div align="center">
 
----
+**Software Engineer · Mobile & Web Application Development**
 
-### 👨‍💻 About Me
+I design and build practical software products, with a focus on mobile applications, web platforms, backend systems, and maintainable architecture.
 
-- **Name:** Abdulrhman Saad Aljradi  
-- **From:** Yemen  
-- **Role:** Software Engineer | AI & Automation Enthusiast  
-- **Focus:** Scalable Web Apps, AI Tools, Process Automation  
-- **Phone:** +967776227313  
-- **Email:** aljrady591@gmail.com  
-- **Goal:** To build secure, intelligent, and innovative systems.  
-- **Languages:** Arabic (Native), English (Professional)
+صانع برمجيات أركز على تطوير تطبيقات الجوال والويب والأنظمة الخلفية، مع الاهتمام بجودة التنفيذ والأمان وقابلية الصيانة.
+
+**Yemen** · **B.Sc. Computer Information Systems — in progress**
+
+[Email](mailto:aljrady591@gmail.com) · [GitHub](https://github.com/aljradi646)
+
+</div>
 
 ---
 
-### 🧠 Skills & Tech Stack
+## About
 
-Languages:   Python, JavaScript, PHP, SQL
-Frontend:    HTML5, CSS3, React, Tailwind CSS
-Backend:     Node.js, Django, Flask, Laravel
-Databases:   MySQL, MongoDB, PostgreSQL
-Dev Tools:   Git, GitHub, Docker, Linux, VS Code, REST APIs
+I work across the application stack, from user-facing mobile and web experiences to APIs, data models, authentication, authorization, and deployment workflows.
 
+My main engineering interests are:
+
+- Building Flutter applications and responsive React interfaces.
+- Designing backend services and versioned REST APIs.
+- Implementing authentication, role-based access control (RBAC), and institution-aware authorization.
+- Structuring maintainable systems with clear domain boundaries and reliable data workflows.
+- Integrating real-time communication, background jobs, and AI-assisted capabilities where they solve a real product problem.
+- Improving quality through automated tests, CI, security checks, and production-focused documentation.
+
+I value working software, explicit technical trade-offs, and verifiable engineering over inflated feature claims.
+
+## Core technology stack
+
+| Area | Technologies |
+|---|---|
+| Mobile | Flutter, Dart |
+| Web | React, TypeScript, JavaScript, HTML, CSS |
+| Backend | PHP, Laravel, Node.js, Python |
+| APIs & real-time | REST APIs, WebSockets, Socket.IO, WebRTC |
+| Data | MySQL, SQLite, PostgreSQL |
+| Engineering tools | Git, GitHub Actions, Docker |
+
+I use technologies according to project requirements rather than forcing one stack onto every product.
+
+## Selected public project
+
+### [Wajhatak — Arabic-first real estate platform](https://github.com/aljradi646/wajhatak-app)
+
+A real-estate product combining a Flutter client with a Laravel backend and an Arabic RTL administration experience.
+
+**Work areas:** property discovery and management, user accounts, favorites, viewing requests, messaging, notifications, and API integration.
+
+**Stack:** Flutter · Dart · Riverpod · Laravel · PHP · MySQL · REST API
+
+The repository is public. Review its source, setup instructions, and CI history for the implementation details and current project state.
+
+## Selected private engineering work
+
+The following projects are in private repositories and are not currently available for public source review. They are included to describe the areas I am actively building; their inclusion is not a claim that every feature is complete or production-deployed.
+
+### ProjectGate — Enterprise academic project management
+
+A multi-institution platform for graduation-project workflows, with role-aware workspaces, institutional structure, granular permissions, proposal review, supervision, and archive processes.
+
+**Engineering focus:** Laravel backend, React and TypeScript frontend, tenant-aware authorization, API contracts, workflow integrity, and automated testing.
+
+**Repository status:** Private · Active development
+
+### LAN Team Hub — Local-first collaboration
+
+A collaboration system designed for local networks, including real-time messaging, device discovery, WebRTC screen sharing, and resumable file transfer with SHA-256 integrity checks.
+
+**Engineering focus:** Next.js, React, TypeScript, Bun, Fastify, Socket.IO, SQLite, and WebRTC.
+
+**Repository status:** Private · Active development
+
+### LUXE Living — Real estate application suite
+
+A multi-component real-estate product combining a Flutter application, PHP/MySQL backend, and web administration interface.
+
+**Engineering focus:** mobile workflows, authentication and sessions, property management, real-time messaging, notifications, and API integration.
+
+**Repository status:** Private · Further release hardening in progress
+
+### CySaaS — Authorized web security assessment platform
+
+A security-focused platform for managing assets and coordinating web assessments only against owned or explicitly authorized targets.
+
+**Engineering focus:** Node.js services, React, MySQL, Redis, job queues, scanning orchestration, and evidence-based reporting.
+
+**Repository status:** Private · Active development
+
+### Sonara — AI-assisted audio production
+
+A local-first audio workflow for vocal analysis, stem separation, arrangement planning, MIDI generation, mixing, and mastering.
+
+**Engineering focus:** Python, FastAPI, audio-processing pipelines, background jobs, and GPU-aware execution.
+
+**Repository status:** Private · Experimental development
+
+## Engineering principles
+
+- **Security by design:** enforce authorization on the server, validate inputs, protect credentials, and treat tenant boundaries as security boundaries.
+- **Maintainable architecture:** keep domain logic, application services, infrastructure, and presentation responsibilities explicit.
+- **Reliable data workflows:** use database constraints, transactions, idempotent operations, and safe migrations where appropriate.
+- **Responsive product experience:** build accessible, RTL-aware interfaces that work across common screen sizes.
+- **Evidence-based quality:** distinguish implemented functionality from planned work and use tests and CI to verify important behavior.
+- **Honest delivery:** document limitations, operational dependencies, and setup requirements instead of presenting prototypes as finished products.
+
+## Current focus
+
+I am currently focused on strengthening enterprise application workflows, improving mobile/web integration, and building reliable real-time and AI-assisted systems.
+
+## Contact
+
+For professional opportunities and technical collaboration:
+
+**[aljrady591@gmail.com](mailto:aljrady591@gmail.com)**
 
 ---
 
-### ⚡ Featured Projects
+<div align="center">
 
-| Project                | Description                                           | Tech Stack                        |
-|------------------------|-------------------------------------------------------|-----------------------------------|
-| **Login System**       | Secure user authentication system                    | Python, SQLite, Flask             |
-| **Smart Organizer**    | Telegram & WhatsApp AI-based media sorter            | Python, NLP, AI, FastAPI          |
-| **Portfolio Website**  | Binance-like engineer portfolio site                 | HTML, CSS, JavaScript, PHP        |
+*Build deliberately. Test the behavior. Document the trade-offs.*
 
----
-
-### 📈 GitHub Activity & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aljradi646&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aljradi646&theme=radical" height="180" />
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aljradi646&theme=tokyonight" />
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.facebook.com/abdulrhman.al.jradi?mibextid=ZbWKwL" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/ab_rh_107?igsh=MXVmYWZ6cjFkdnd4cQ==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
----
-✨ Quote
-
-> "Programming is not just a skill — it's a superpower to build the future."
-
-
-
-
----
-
-📫 Contact Me
-
-Email: aljrady591@gmail.com
-Phone: +967 776 227 313    
-Website: engaljradi.net (Coming Soon)
-Available For: Freelance | Collaborations | AI Projects
-
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027&height=120&section=footer" />
-</p><p align="center"><b>© 2025 Abdulrhman Saad Aljradi — All Rights Reserved</b></p>
+</div>
