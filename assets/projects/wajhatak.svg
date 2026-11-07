@@ -33,7 +33,7 @@
     <text x="76" y="264" fill="#B4C5D8" font-size="25" font-weight="400">Arabic-first real estate platform</text>
     <rect x="76" y="322" width="365" height="2" rx="1" fill="#DCE8F5" opacity=".15"/>
     <rect x="76" y="322" width="84" height="2" rx="1" fill="url(#wajhatak-accent)"/>
-    <rect x="76" y="357" width="auto" height="42" rx="21" fill="#FFFFFF" fill-opacity=".07" stroke="#FFFFFF" stroke-opacity=".13"/>
+    <rect x="76" y="357" width="365" height="42" rx="21" fill="#FFFFFF" fill-opacity=".07" stroke="#FFFFFF" stroke-opacity=".13"/>
     <circle cx="98" cy="378" r="5" fill="url(#wajhatak-accent)"/>
     <text x="116" y="385" fill="#D8E4F0" font-size="16" font-weight="600" letter-spacing="1">PUBLIC REPOSITORY</text>
     <text x="76" y="548" fill="#748BA4" font-size="15" letter-spacing="2">ABSTRACT CONCEPT ART · NOT A PRODUCT SCREENSHOT</text>
