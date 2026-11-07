@@ -4,7 +4,7 @@
 
 **Software Engineer · Mobile & Web Application Development**
 
-I design and build practical software products, with a focus on mobile applications, web platforms, backend systems, and maintainable architecture.
+I build mobile applications, web platforms, and backend services with a focus on maintainable architecture, secure workflows, and practical product delivery.
 
 صانع برمجيات أركز على تطوير تطبيقات الجوال والويب والأنظمة الخلفية، مع الاهتمام بجودة التنفيذ والأمان وقابلية الصيانة.
 
@@ -18,18 +18,17 @@ I design and build practical software products, with a focus on mobile applicati
 
 ## About
 
-I work across the application stack, from user-facing mobile and web experiences to APIs, data models, authentication, authorization, and deployment workflows.
+I work across the application stack: mobile and web interfaces, backend APIs, data models, authentication, authorization, and deployment workflows.
 
-My main engineering interests are:
+My current engineering focus includes:
 
-- Building Flutter applications and responsive React interfaces.
-- Designing backend services and versioned REST APIs.
-- Implementing authentication, role-based access control (RBAC), and institution-aware authorization.
-- Structuring maintainable systems with clear domain boundaries and reliable data workflows.
-- Integrating real-time communication, background jobs, and AI-assisted capabilities where they solve a real product problem.
-- Improving quality through automated tests, CI, security checks, and production-focused documentation.
+- Flutter applications and responsive React interfaces.
+- Laravel and Node.js backend services and REST APIs.
+- Role-based and institution-aware authorization.
+- Real-time communication, file workflows, and maintainable system architecture.
+- Automated testing, CI, and production-focused quality.
 
-I value working software, explicit technical trade-offs, and verifiable engineering over inflated feature claims.
+I value verifiable implementation and clear technical trade-offs over inflated claims.
 
 ## Core technology stack
 
@@ -42,76 +41,55 @@ I value working software, explicit technical trade-offs, and verifiable engineer
 | Data | MySQL, SQLite |
 | Engineering tools | Git, GitHub Actions, Docker |
 
-I use technologies according to project requirements rather than forcing one stack onto every product.
+I select technologies according to the product's requirements rather than forcing one stack onto every project.
 
-## Selected public project
+## Selected projects
 
-### [Wajhatak — Arabic-first real estate platform](https://github.com/aljradi646/wajhatak-app)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/aljradi646/wajhatak-app">
+        <img src="assets/projects/wajhatak.svg" alt="Wajhatak — conceptual architectural artwork for an Arabic-first real estate platform" width="100%" />
+      </a>
+      <p><strong><a href="https://github.com/aljradi646/wajhatak-app">Wajhatak</a></strong><br />Public repository · Flutter, Dart, Laravel, PHP, MySQL</p>
+      <p>Arabic-first real-estate application for property discovery and management, backed by a Laravel API.</p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/projects/projectgate.svg" alt="ProjectGate — conceptual artwork representing academic project workflows" width="100%" />
+      <p><strong>ProjectGate</strong><br />Private · Active development · Laravel, React, TypeScript</p>
+      <p>Multi-institution graduation-project workflows covering role-aware workspaces, permissions, proposal review, supervision, and archiving.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/projects/lan-team-hub.svg" alt="LAN Team Hub — conceptual artwork representing connected local-network collaboration" width="100%" />
+      <p><strong>LAN Team Hub</strong><br />Private · Active development · Next.js, TypeScript, Fastify, Socket.IO, WebRTC</p>
+      <p>Local-first collaboration with device discovery, real-time communication, screen sharing, and resumable file transfer.</p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/projects/luxe-living.svg" alt="LUXE Living — conceptual architectural artwork for a real estate application suite" width="100%" />
+      <p><strong>LUXE Living</strong><br />Private · Further release hardening · Flutter, PHP, MySQL</p>
+      <p>Real-estate application suite combining mobile workflows, property management, and web administration.</p>
+    </td>
+  </tr>
+</table>
 
-A real-estate product combining a Flutter client with a Laravel backend and an Arabic RTL administration experience.
+<sub>Project artwork is original conceptual illustration, not a screenshot of a running application. Private projects are not publicly available for source review; their inclusion does not imply that every feature is complete or production-deployed.</sub>
 
-**Work areas:** property discovery and management, user accounts, favorites, viewing requests, messaging, notifications, and API integration.
-
-**Stack:** Flutter · Dart · Riverpod · Laravel · PHP · MySQL · REST API
-
-The repository is public. Review its source, setup instructions, and CI history for the implementation details and current project state.
-
-## Selected private engineering work
-
-The following projects are in private repositories and are not currently available for public source review. They are included to describe the areas I am actively building; their inclusion is not a claim that every feature is complete or production-deployed.
-
-### ProjectGate — Enterprise academic project management
-
-A multi-institution platform for graduation-project workflows, with role-aware workspaces, institutional structure, granular permissions, proposal review, supervision, and archive processes.
-
-**Engineering focus:** Laravel backend, React and TypeScript frontend, tenant-aware authorization, API contracts, workflow integrity, and automated testing.
-
-**Repository status:** Private · Active development
-
-### LAN Team Hub — Local-first collaboration
-
-A collaboration system designed for local networks, including real-time messaging, device discovery, WebRTC screen sharing, and resumable file transfer with SHA-256 integrity checks.
-
-**Engineering focus:** Next.js, React, TypeScript, Bun, Fastify, Socket.IO, SQLite, and WebRTC.
-
-**Repository status:** Private · Active development
-
-### LUXE Living — Real estate application suite
-
-A multi-component real-estate product combining a Flutter application, PHP/MySQL backend, and web administration interface.
-
-**Engineering focus:** mobile workflows, authentication and sessions, property management, real-time messaging, notifications, and API integration.
-
-**Repository status:** Private · Further release hardening in progress
-
-### CySaaS — Authorized web security assessment platform
-
-A security-focused platform for managing assets and coordinating web assessments only against owned or explicitly authorized targets.
-
-**Engineering focus:** Node.js services, React, MySQL, Redis, job queues, scanning orchestration, and evidence-based reporting.
-
-**Repository status:** Private · Active development
-
-### Sonara — AI-assisted audio production
-
-A local-first audio workflow for vocal analysis, stem separation, arrangement planning, MIDI generation, mixing, and mastering.
-
-**Engineering focus:** Python, FastAPI, audio-processing pipelines, background jobs, and GPU-aware execution.
-
-**Repository status:** Private · Experimental development
+**Other private work:** CySaaS — an authorized web security assessment platform in active development; Sonara — an experimental AI-assisted audio-processing workflow.
 
 ## Engineering principles
 
-- **Security by design:** enforce authorization on the server, validate inputs, protect credentials, and treat tenant boundaries as security boundaries.
-- **Maintainable architecture:** keep domain logic, application services, infrastructure, and presentation responsibilities explicit.
-- **Reliable data workflows:** use database constraints, transactions, idempotent operations, and safe migrations where appropriate.
-- **Responsive product experience:** build accessible, RTL-aware interfaces that work across common screen sizes.
-- **Evidence-based quality:** distinguish implemented functionality from planned work and use tests and CI to verify important behavior.
-- **Honest delivery:** document limitations, operational dependencies, and setup requirements instead of presenting prototypes as finished products.
+- **Security first:** enforce authorization server-side, validate inputs, and protect institutional and tenant boundaries.
+- **Maintainable architecture:** keep domain rules, application services, infrastructure, and presentation responsibilities clear.
+- **Reliable data workflows:** use constraints, transactions, safe migrations, and idempotent operations where appropriate.
+- **Responsive experience:** build accessible interfaces, including Arabic RTL layouts, across common screen sizes.
+- **Evidence-based quality:** distinguish implemented behavior from planned work and verify important paths with tests and CI.
+- **Honest delivery:** document limitations and operational requirements instead of presenting prototypes as finished products.
 
 ## Current focus
 
-I am currently focused on strengthening enterprise application workflows, improving mobile/web integration, and building reliable real-time and AI-assisted systems.
+Strengthening enterprise application workflows, mobile/web integration, and reliable real-time systems.
 
 ## Contact
 
