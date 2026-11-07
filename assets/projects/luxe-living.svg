@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="luxe-title luxe-desc">
+  <title id="luxe-title">LUXE Living</title>
+  <desc id="luxe-desc">Real estate application suite. Concept illustration, not a product screenshot.</desc>
+  <defs>
+    <linearGradient id="luxe-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1424"/>
+      <stop offset="1" stop-color="#101F33"/>
+    </linearGradient>
+    <linearGradient id="luxe-accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#B99A64"/>
+      <stop offset="1" stop-color="#79D9D0"/>
+    </linearGradient>
+    <radialGradient id="luxe-halo">
+      <stop offset="0" stop-color="#B99A64" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#B99A64" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="luxe-shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+    <pattern id="luxe-grid" width="38" height="38" patternUnits="userSpaceOnUse">
+      <path d="M38 0H0V38" fill="none" stroke="#DCE8F5" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" rx="30" fill="url(#luxe-bg)"/>
+  <rect width="1200" height="630" rx="30" fill="url(#luxe-grid)"/>
+  <circle cx="900" cy="310" r="340" fill="url(#luxe-halo)"/>
+  <path d="M0 510C180 470 310 560 500 510S830 465 1200 530V630H0Z" fill="#07101C" opacity=".62"/>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <rect x="72" y="76" width="9" height="58" rx="4.5" fill="url(#luxe-accent)"/>
+    <text x="108" y="103" fill="#A8BDD3" font-size="18" font-weight="650" letter-spacing="4">PROJECT PORTFOLIO</text>
+    <text x="72" y="214" fill="#F4F7FB" font-size="62" font-weight="720" letter-spacing="-2">LUXE Living</text>
+    <text x="76" y="264" fill="#B4C5D8" font-size="25" font-weight="400">Real estate application suite</text>
+    <rect x="76" y="322" width="365" height="2" rx="1" fill="#DCE8F5" opacity=".15"/>
+    <rect x="76" y="322" width="84" height="2" rx="1" fill="url(#luxe-accent)"/>
+    <rect x="76" y="357" width="auto" height="42" rx="21" fill="#FFFFFF" fill-opacity=".07" stroke="#FFFFFF" stroke-opacity=".13"/>
+    <circle cx="98" cy="378" r="5" fill="url(#luxe-accent)"/>
+    <text x="116" y="385" fill="#D8E4F0" font-size="16" font-weight="600" letter-spacing="1">PRIVATE · RELEASE HARDENING</text>
+    <text x="76" y="548" fill="#748BA4" font-size="15" letter-spacing="2">ABSTRACT CONCEPT ART · NOT A PRODUCT SCREENSHOT</text>
+  </g>
+  <g>
+    <g transform="translate(555 78)">
+      <ellipse cx="300" cy="450" rx="280" ry="38" fill="#000814" opacity=".46" filter="url(#luxe-shadow)"/>
+      <circle cx="498" cy="80" r="48" fill="#D8C39A" opacity=".18"/>
+      <circle cx="498" cy="80" r="27" fill="#E7D8B7" opacity=".82"/>
+      <path d="M30 420H690" stroke="#9A8A70" stroke-opacity=".55" stroke-width="3"/>
+      <path d="M110 230L300 100L490 230V420H110Z" fill="#25394A" stroke="#D2BD95" stroke-width="3"/>
+      <path d="M78 234L300 76L522 234" fill="none" stroke="#E3D0A8" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M210 420V268Q300 194 390 268V420" fill="#102236" stroke="#C7AF82" stroke-width="4"/>
+      <path d="M243 420V286Q300 237 357 286V420" fill="#1B3043" stroke="#8C9EAA" stroke-width="2"/>
+      <path d="M132 263H200V348H132ZM400 263H468V348H400Z" fill="#8CAEB8" fill-opacity=".18" stroke="#D2BD95" stroke-width="3"/>
+      <path d="M145 278H187M145 293H187M413 278H455M413 293H455" stroke="#E6D4AE" stroke-opacity=".5" stroke-width="3"/>
+      <path d="M90 420V370M70 420V382M510 420V370M530 420V382" stroke="#5D8A7A" stroke-width="9" stroke-linecap="round"/>
+      <path d="M48 380Q80 324 112 380M492 380Q524 324 556 380" fill="#31594E" stroke="#6E9B7E" stroke-width="3"/>
+      <path d="M180 454C232 430 368 430 420 454" fill="none" stroke="#D0B98F" stroke-opacity=".5" stroke-width="3"/>
+      <path d="M230 470H370" stroke="#D0B98F" stroke-opacity=".3" stroke-width="2"/>
+    </g></g>
+  <rect x="1.5" y="1.5" width="1197" height="627" rx="29" fill="none" stroke="#D8E6F5" stroke-opacity=".14" stroke-width="3"/>
+</svg>
